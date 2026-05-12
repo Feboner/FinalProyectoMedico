@@ -22,6 +22,7 @@ public class AuthService {
 
     public String login(String username, String password) {
         Optional<Usuario> userOpt = usuarioRepository.findByUsername(username);
+        
         if (userOpt.isPresent() && passwordEncoder.matches(password, userOpt.get().getPassword())) {
             return jwtUtil.generateToken(username);
         }
