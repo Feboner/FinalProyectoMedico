@@ -1,4 +1,4 @@
-﻿package com.duoc.ms_productos.model;
+package com.duoc.ms_productos.model;
 import jakarta.persistence.*;
 import lombok.Data;
 @Entity

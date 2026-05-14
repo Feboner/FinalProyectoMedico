@@ -1,4 +1,4 @@
-﻿package com.duoc.ms_productos.dto;
+package com.duoc.ms_productos.dto;
 
 import jakarta.validation.constraints.*;
 import lombok.Data;

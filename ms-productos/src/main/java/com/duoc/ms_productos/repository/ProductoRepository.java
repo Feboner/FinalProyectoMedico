@@ -1,4 +1,4 @@
-﻿package com.duoc.ms_productos.repository;
+package com.duoc.ms_productos.repository;
 import com.duoc.ms_productos.model.Producto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

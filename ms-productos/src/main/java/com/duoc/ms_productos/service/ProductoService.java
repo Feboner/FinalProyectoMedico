@@ -1,4 +1,4 @@
-﻿package com.duoc.ms_productos.service;
+package com.duoc.ms_productos.service;
 
 import com.duoc.ms_productos.dto.ProductoDTO;
 import com.duoc.ms_productos.model.Producto;

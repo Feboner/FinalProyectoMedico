@@ -1,4 +1,4 @@
-﻿package com.duoc.ms_productos.controller;
+package com.duoc.ms_productos.controller;
 
 import com.duoc.ms_productos.dto.ApiResponse;
 import com.duoc.ms_productos.dto.ProductoDTO;

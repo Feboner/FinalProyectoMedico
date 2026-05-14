@@ -1,4 +1,4 @@
-﻿package com.duoc.ms_productos;
+package com.duoc.ms_productos;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication

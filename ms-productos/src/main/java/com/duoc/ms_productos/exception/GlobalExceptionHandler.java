@@ -1,4 +1,4 @@
-﻿package com.duoc.ms_productos.exception;
+package com.duoc.ms_productos.exception;
 
 import com.duoc.ms_productos.dto.ApiResponse;
 import org.springframework.http.ResponseEntity;
